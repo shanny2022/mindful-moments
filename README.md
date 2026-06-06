@@ -4,7 +4,7 @@ Submitted by: **Shuntoria Reid**
 
 About this web app: **Mindful Moments is a list-based web app that shares simple mental health self-care tips for busy students. Users can browse different self-care activities and click each one to learn more about how it can support stress relief, focus, and emotional wellness.**
 
-Time spent: **X** hours
+Time spent: **5** hours
 
 ## Required Features
 
@@ -31,9 +31,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Click here to view my video walkthrough](https://drive.google.com/file/d/1ZUs0EyJiIYqNICeRsJeh5bPHbbGdTSRk/view?usp=sharing)
 
-GIF created with **Kap**.
+GIF created with **Veed.io**.
 
 ## Notes
 
