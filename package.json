@@ -1,0 +1,12 @@
+{
+  "name": "mindful-moments",
+  "version": "1.0.0",
+  "description": "A listicle web app for mental health self-care tips.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
